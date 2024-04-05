@@ -38,3 +38,5 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riguima&theme=dracula&include_all_commits=true&count_private=true" alt="riguima">
 </div>
+
+![Snake animation](https://github.com/riguima/riguima/blob/output/github-contribution-grid-snake.svg)
