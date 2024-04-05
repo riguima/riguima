@@ -31,11 +31,10 @@
 <p class="github">⚙️ &nbsp;GitHub</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riguima&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=percentile">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riguima&layout=compact&langs_count=7&theme=dracula">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=riguima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riguima&langs_count=8&theme=dracula&include_all_commits=true&count_private=true">
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riguima&theme=dracula&include_all_commits=true&count_private=true" alt="riguima">
 </div>
